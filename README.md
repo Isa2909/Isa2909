@@ -1,16 +1,15 @@
-## Hi there 👋
+## oi, bem vindo ao meu perfil 🇧🇷
 
-<!--
-**Isa2909/Isa2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é Isabeli da Silva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- estudo na [Alura](https://www.alura.com.br)
+
+  ### para entrar em contato 📬
+
+  da.silva.isabeli@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/KJQ-Tb0BB5kAAAAd/choso-choso-jjk.gif)
+![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
