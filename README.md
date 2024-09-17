@@ -11,5 +11,5 @@ meu nome é Isabeli da Silva
   da.silva.isabeli@escola.pr.gov.br
 
 
-![](https://media1.tenor.com/m/KJQ-Tb0BB5kAAAAd/choso-choso-jjk.gif)
+
 ![](https://media.tenor.com/93tDn9zeswoAAAAi/mewo-sleep-sprite-mewo.gif)
